@@ -1,3 +1,4 @@
 ## Motion Layout Demo
 
-![Motion Layout](demo.gif)
+
+<img src="demo.gif" height="400" />
